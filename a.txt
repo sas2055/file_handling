@@ -1,0 +1,6 @@
+File operations are as follows:
+- Create
+- Open
+- read
+- write
+- close
