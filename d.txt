@@ -1,0 +1,2 @@
+This is a exclusive mode.
+This is used to create a file only ones.
