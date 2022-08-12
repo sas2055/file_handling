@@ -1,0 +1,10 @@
+Name, Age, Salary
+Anu, 23, 20000
+Tanu, 20, 25000
+Manu, 29, 23000
+Sanu, 25, 28000
+Renu, 26, 38000
+Sonu, 30, 40000
+
+
+
