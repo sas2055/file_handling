@@ -1,0 +1,13 @@
+Name Age
+Anu 23
+Tanu 20
+Manu 29
+Sanu 25
+Renu 26
+Sonu 30
+
+
+
+
+
+
